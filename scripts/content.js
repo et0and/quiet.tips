@@ -145,169 +145,28 @@ var data = [
     "textContent": [
       "Definitely",
       "Yeah",
-      "You're an agent using a tool.",
-      "A tool designed in a simpler time.",
-      "With the principles of mass production in mind.",
-      "A tool that references real objects.",
+      "So look after yourself!",
+      "There are people out there who care about you!",
+      "And just remember to check in with yourself every once in a while",
+      "😊",
     ],
     "buttonContent": {
       "isRoundButton": 0,
-      "bText": "a metaphor?",
+      "bText": "Thank you!",
     }
   },
 
   { "bigHead": 0,
     "textContent": [
-      "a metaphor?",
-      "A metaphor.",
-      "Screens supplant the printed book… household appliances… buttons, switches and knobs… the assembly line… one size fits all.",
-      "You are not dumb.",
-      "Quite the opposite…"
+      "Thank you!",
+      "You're welcome!",
+      "If you need anything, just check out the contact details under Help to talk to someone!",
+      "Ka kite anō au i a koe!",
+      "Noho ora mai!"
     ],
     "buttonContent": {
       "isRoundButton": 1,
       "bImg": "hands",
-    }
-  },
-
-
-  { "bigHead": 1,
-    "textContent": "your<br/> smart phone<br/> is dumb.",
-    "vidContent": "dumb",
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "that's mean",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "that's mean",
-      "Really?",
-      "When’s the last time Siri gave you information <i>before</i> you asked for it?"
-    ],
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "...",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "...",
-      "Our technology is stuck in the mechanized dream of the Industrial Age.",
-      "It ignores the rich datascapes of the Information Age.",
-      "It ignores reality."
-    ],
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "...it ignores me!",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "...it ignores me!",
-      "Precisely!"
-    ],
-    "buttonContent": {
-      "isRoundButton": 1,
-      "bImg": "sad",
-    }
-  },
-
-  { "bigHead": 1,
-    "textContent": "putting the user<br/>first again",
-    "vidContent": "user",
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "how?",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "how?",
-      "Understanding.",
-      "Understanding you.",
-      "Understanding reality.",
-      "The interface must understand the user and conform to his needs.",
-      "An intelligent tool for an intelligent agent."
-    ],
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "is this possible?",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "is this possible?",
-      "The technology exists.",
-      "And is awaiting application.",
-      "Combining collected data with an intelligent system will bring about a fluid technological revolution."
-    ],
-    "buttonContent": {
-      "isRoundButton": 1,
-      "bImg": "fist",
-    }
-  },
-
-  { "bigHead": 1,
-    "textContent": "THE MUTABLE INTERFACE",
-    "vidContent": "mutable",
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "one size fits none!",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "one size fits none!",
-      "The industrial paradigm of standard forms is no longer relevant.",
-      "Combining real-time data with intelligent understanding can craft a unique experience.",
-      "Unique to you.",
-      "Unique to the moment."
-    ],
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "I can almost see it…",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "I can almost see it…",
-      "Imagine an interface that knows when you’re home, and surfaces social content…",
-      "knows when you’re working and surfaces emails…",
-      "knows when you’re traveling and surfaces navigation…"
-    ],
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "yes!!!",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "yes!!!",
-      "Mutable interfaces.",
-      "Fluid technology.",
-      "This is the future."
-    ],
-    "buttonContent": {
-      "isRoundButton": 1,
-      "bImg": "man",
-    }
-  },
-
-  { "bigHead": 1,
-    "textContent": "<br/>REFLECT REALITY.",
-    "vidContent": "mirror",
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "xxxend",
     }
   },
 ];
