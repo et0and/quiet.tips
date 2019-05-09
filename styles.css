@@ -72,13 +72,13 @@
 }
 
 body {
-  background: #ffd63e;
+  background: #c58c4b;
   font-family: 'Theinhardt';
   font-weight: normal;
   height: 100%;
   font-size: 23px;
   line-height: 1.174em;
-  color: #35231f;
+  color: #000000;
 }
 
 #splashBG {
@@ -243,7 +243,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fed700', end
 }
 
 #chatList li .response {
-  background: #ffd63e;
+  background: #a7b7fc;
   max-width: 66%;
 }
 
