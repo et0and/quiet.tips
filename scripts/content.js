@@ -92,53 +92,58 @@ var data = [
     }
   },
 
-  { "bigHead": 1,
-    "textContent": "screens screens screens... tap click tap click tap",
-    "vidContent": "sun",
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "*click*",
-    }
-  },
-
   { "bigHead": 0,
-    "textContent": [
-      "*click*",
-      "how many times a day do you tap, swipe, click, type and pinch?",
-      "...to access a simple fact...",
-      "that the brain could recall...",
-      "instantly."
+    "textContent": ["screens screens screens... tap click tap click tap",
     ],
     "buttonContent": {
       "isRoundButton": 0,
-      "bText": "maybe 100?",
+      "bText": "Let's keep going",
     }
   },
 
   { "bigHead": 0,
     "textContent": [
-      "maybe 100?",
-      "More like 2,000.",
+      "Let's keep going",
+      "There are other things you can do to ensure that you stay well",
+      "One is looking after your wairua, your spirit",
+      "But",
+      "Do you know how you could look after it?"
+    ],
+    "buttonContent": {
+      "isRoundButton": 0,
+      "bText": "Umm...",
+    }
+  },
+
+  { "bigHead": 0,
+    "textContent": [
+      "Umm...",
+      "It's a tricky one",
     ],
     "buttonContent": {
       "isRoundButton": 1,
-      "bImg": "turnt",
-    }
-  },
-
-  { "bigHead": 1,
-    "textContent": "yeah...",
-    "vidContent": "chickens2",
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "am i dumb?",
+      "bImg": "hm",
     }
   },
 
   { "bigHead": 0,
     "textContent": [
-      "am i dumb?",
-      "No.",
+      "Everyone will approach it and understand it differently",
+      "But for some people, it's about being around nurturing people who make you feel like you belong",
+      "It could be feeling like you belong in your environment",
+      "Feeling connected to your ancestors, your tīpuna",
+      "Having a sense of belonging is so important",
+    ],
+    "buttonContent": {
+      "isRoundButton": 0,
+      "bText": "Definitely",
+    }
+  },
+
+  { "bigHead": 0,
+    "textContent": [
+      "Definitely",
+      "Yeah",
       "You're an agent using a tool.",
       "A tool designed in a simpler time.",
       "With the principles of mass production in mind.",
