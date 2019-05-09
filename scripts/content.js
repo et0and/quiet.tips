@@ -1,97 +1,100 @@
 // bigHead = 1 makes content a headline
 //textSize and bubbleType only needed for small text
-
-
-
-
 var data = [
-  { "bigHead": 1,
-    "textContent": "<br/>hi there!",
-    "vidContent": "coffee2",
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "...nose?",
-    }
-  },
-
   { "bigHead": 0,
     "textContent": [
-      "...nose?",
-      "Ears, eyes, mouth, hands...",
-      "Like all sensory organs, the nose plays a vital role in how you perceive your environment.",
-      "Yes you.",
-      "Who are you?",
+    "Is anybody there?",
+    "I'm here! Hi!",
     ],
     "buttonContent": {
       "isRoundButton": 0,
-      "bText": "who's asking?",
+      "bText": "I need some peace and quiet right now",
     }
   },
 
   { "bigHead": 0,
     "textContent": [
-      "who's asking?",
-      "I am a constructed narrative meant to forward an idea. I wish I were real.",
-      "But you…",
-      "You're special.",
-      "A unique island universe of experiences and knowledge unlike any other."
-    ],
-    "buttonContent": {
-      "isRoundButton": 1,
-      "bText": "Some text here",
-      "bImg": "hm"
-    }
-  },
-
-  { "bigHead": 1,
-    "textContent": "take a moment<br/>to look outside.",
-    "vidContent": "nature",
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "why?",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "why?",
-      "Just do it.",
-      "What do you see?",
+      "I need some peace and quiet now",
+      "No worries, I'm here to help!",
+      "I'm going to go over some resources that might help you.",
+      "Is that okay with you?",
     ],
     "buttonContent": {
       "isRoundButton": 0,
-      "bText": "people...cars...buildings...trees...",
+      "bText": "Let's do it",
     }
   },
 
   { "bigHead": 0,
     "textContent": [
-      "people...cars...buildings...trees...",
-      "Yes. Real things.",
-      "You live in a beautiful world filled with real people and real things.",
-      "Interfacing with people, with nature, with thought, happens in an immersive world of concurrent stimuli.",
-      "These stimuli shape the present moment and our goals, dreams and desires.",
-    ],
-    "buttonContent": {
-      "isRoundButton": 0,
-      "bText": "what are you getting at?",
-    }
-  },
-
-  { "bigHead": 0,
-    "textContent": [
-      "what are you getting at?",
-      "Digital information hides behind screens, coming to life only when explicitly asked."
+      "Let's do it",
+      "Awesome!",
+      "Life today can be such a rush",
+      "There are many things demanding of our time, and if we don't take some time out it can lead to a lot of stress",
+      "It's important to be able to take time to reflect in quiet and inner stilness"
     ],
     "buttonContent": {
       "isRoundButton": 1,
-      "bImg": "robot",
+      "bText": "Yeah I agree",
+      "bImg": "thumbs-up"
+    }
+  },
+
+  { "bigHead": 0,
+    "textContent": [
+      "Yeah I agree",
+      "Right? Okay then",
+      "Let's start with your tinana, your body",
+      "How well do you look after your tinana?",
+      "Your physical health is so important to your mental health",
+      "You've probably heard this to death but make sure you",
+      "Eat well 🍲",
+      "Sleep well 💤",
+      "Drink lots of water 💦",
+      "Keep taking any prescribed medication so you stay consistent, this is very important!",
+      "Stay active 🏃‍♀️ (you don't need to be an athlete, but even simple walks outside with some fresh air can be really good!",
+      "And try to limit alcohol and drug use if you can"
+    ],
+    "buttonContent": {
+      "isRoundButton": 0,
+      "bText": "Cool, what else do you recommend?",
+    }
+  },
+
+  { "bigHead": 0,
+    "textContent": [
+      "Cool, what else do you recommend?",
+      "Look after your hinengaro, your mind",
+      "Your mind and your emotions are precious",
+      "Try to be mindful of your whakaaro, your thoughts, as you go about your day",
+      "Things like meditation can help here, but most importantly",
+      "Keep talking to people, friends and whānau, especially if you are feeling down",
+      "Don't let work take over your life. Try to keep a healthy balance between work-life if you can",
+      "And know where to go if you do need help!",
+    ],
+    "buttonContent": {
+      "isRoundButton": 0,
+      "bText": "Where do I go if I need it?",
+    }
+  },
+
+  { "bigHead": 0,
+    "textContent": [
+      "Where do I go if I need it?",
+      "I'm glad you asked 😊",
+      "The top right of your screen has a Help section",
+      "There you will find a list of some great people you can talk to for help",
+      "There's help out there if you need it, you only need to ask! 😃",
+    ],
+    "buttonContent": {
+      "isRoundButton": 1,
+      "bImg": "clap",
     }
   },
 
   { "bigHead": 1,
     "textContent": "screens screens screens... tap click tap click tap",
-    "vidContent": "screens",
+    "vidContent": "sun",
     "buttonContent": {
       "isRoundButton": 0,
       "bText": "*click*",
