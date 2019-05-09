@@ -93,7 +93,7 @@ var data = [
   },
 
   { "bigHead": 0,
-    "textContent": ["screens screens screens... tap click tap click tap",
+    "textContent": ["Thank you!",
     ],
     "buttonContent": {
       "isRoundButton": 0,
